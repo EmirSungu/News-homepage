@@ -1,4 +1,4 @@
-# Frontend Mentor News homepage Mobile Design Projesi
+# Frontend Mentor News homepage Mobile Design Project
 #### Merhaba Arkadaşlar, Hakan Yalçınkaya hocamınızın anlatımıyla Sıfırdan Projelerle Front-end ve React 18.x Öğren eğitimi kapsamında Flex-Box kullanarak Haber ana sayfasının mobil tasarımını yapmaya çalıştım ve böylece CSS bölümünü tamamladım.
 ##### Aşağıdaki bağlantıdan inceleyebilirsiniz.Teşekkürler.
 
